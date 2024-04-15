@@ -25,8 +25,10 @@ I'm a Third Year Engineering student from Pune. I have a passion for Cloud Compu
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/gaurav_desai_08)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:youremail@example.com)](mailto:iamgauravdesai@gmail.com)
 
-## GitHub Status
-[![GitHub Status](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ICEBOLT08&show_icons=true&theme=radical)
+
 
 
 
