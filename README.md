@@ -17,3 +17,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ICEBOLT08&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### Just a meme
+![](https://preview.redd.it/yfr8ceuufue91.jpg?auto=webp&s=329d9052d29a7bc5edc6452fa60d2ca91ea87d82)
